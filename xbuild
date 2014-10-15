@@ -75,6 +75,7 @@ if [ "$x" == "y" ]; then
 fi
 if [ $copy -eq 1 ]; then
 	cp ~/.ssh/config ~/.ssh/config.save
+	cp sshconfig.txt ~/.ssh/config
 else
 	echo "~/.ssh/config not overwritten. The new ssh config settings can be found in sshconfig.txt"
 fi
