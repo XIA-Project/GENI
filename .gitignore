@@ -1,1 +1,5 @@
 sshconfig.txt
+logininfo.txt
+*slices-portal.txt
+*json
+*.xml
