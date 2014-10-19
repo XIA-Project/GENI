@@ -2,8 +2,8 @@
 
   <node client_id="router0" exclusive="false" xmlns:rs="http://www.protogeni.net/resources/rspec/ext/emulab/1">
     <sliver_type name="emulab-xen">
-<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=3016f17f-5564-11e4-a443-000000000000"
-  name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xia"/>
+<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=783273c6-57bb-11e4-a443-000000000000"
+	name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xiatutorial"/>
     </sliver_type>
     <interface client_id="VM-0:if0">
       <ip address="10.10.1.2" netmask="255.255.255.0" type="ipv4"/>
@@ -15,8 +15,8 @@
 
     <node client_id="router1" exclusive="false" xmlns:rs="http://www.protogeni.net/resources/rspec/ext/emulab/1">
     <sliver_type name="emulab-xen">
-<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=3016f17f-5564-11e4-a443-000000000000"
-  name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xia"/>
+<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=783273c6-57bb-11e4-a443-000000000000"
+	name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xiatutorial"/>
     </sliver_type>
     <interface client_id="VM-1:if0">
       <ip address="10.10.2.2" netmask="255.255.255.0" type="ipv4"/>
@@ -31,8 +31,8 @@
 
   <node client_id="host0" exclusive="false" xmlns:rs="http://www.protogeni.net/resources/rspec/ext/emulab/1">
     <sliver_type name="emulab-xen">
-<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=3016f17f-5564-11e4-a443-000000000000"
-  name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xia"/>
+<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=783273c6-57bb-11e4-a443-000000000000"
+	name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xiatutorial"/>
     </sliver_type>
     <interface client_id="VM:if0">
       <ip address="10.10.1.1" netmask="255.255.255.0" type="ipv4"/>
@@ -41,8 +41,8 @@
 
   <node client_id="server0" exclusive="false" xmlns:rs="http://www.protogeni.net/resources/rspec/ext/emulab/1">
     <sliver_type name="emulab-xen">
-<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=3016f17f-5564-11e4-a443-000000000000"
-  name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xia"/>
+<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=783273c6-57bb-11e4-a443-000000000000"
+	name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xiatutorial"/>
     </sliver_type>
     <interface client_id="VM-1-0:if0">
       <ip address="10.10.3.2" netmask="255.255.255.0" type="ipv4"/>
@@ -51,8 +51,8 @@
 
   <node client_id="server1" exclusive="false" xmlns:rs="http://www.protogeni.net/resources/rspec/ext/emulab/1">
     <sliver_type name="emulab-xen">
-<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=3016f17f-5564-11e4-a443-000000000000"
-  name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xia"/>
+<disk_image url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=783273c6-57bb-11e4-a443-000000000000"
+	name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xiatutorial"/>
     </sliver_type>
     <interface client_id="VM-1-0-0:if0">
       <ip address="10.10.4.2" netmask="255.255.255.0" type="ipv4"/>
