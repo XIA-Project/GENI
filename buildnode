@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# keep grub UI from coming up
+sudo apt-mark hold grub
 
 # make sure os is up to date
 sudo apt-get update
@@ -18,7 +20,7 @@ sudo apt-get install -y vim tmux ack-grep curl socat netcat wget stunnel
 
 # get XIA source & build
 cd /
-git clone https://github.com/XIA-Project/xia-core.git
+sudo git clone https://github.com/XIA-Project/xia-core.git
 cd xia-core
 git checkout develop
 
