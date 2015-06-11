@@ -4,8 +4,8 @@
 #
 
 if [ `uname` == "Darwin" ]; then
-	rtl="/Applications/omniTools-2.6/readyToLogin.app/Contents/MacOS/readyToLogin"
-	omni="/Applications/omniTools-2.6/omni.app/Contents/MacOS/omni --error "
+	rtl="/Applications/omniTools-2.9/readyToLogin.app/Contents/MacOS/readyToLogin"
+	omni="/Applications/omniTools-2.9/omni.app/Contents/MacOS/omni --error "
 else
 	rtl="readytoLogin"
 	omni="omni --error "
@@ -36,7 +36,7 @@ echo waiting for sliver to be ready
 numready=0
 dots=1
 while true; do
-	numready=`$rtl -a $2 $1 | grep status:ready | wc | tr -s " " | cut -d " " -f 2`
+	numready=`$rtl -a $2 $1 | grep "is: ready" | wc -l | tr -s " " | cut -d " " -f 2`
 	if [ $numready -eq 5 ]; then
 		break
 	elif [ $numready -gt 0 ]; then
