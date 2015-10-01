@@ -21,11 +21,12 @@ sudo apt-get install -y vim tmux ack-grep curl socat netcat wget stunnel
 # get XIA source & build
 cd /
 sudo git clone https://github.com/XIA-Project/xia-core.git
+sudo chmod -R 777 xia-core
 cd xia-core
 git checkout develop
 
 # Delete xsockconf.ini files that are not for GENI XIA-prototype
-find . -name "xsockconf*.ini" -exec rm -rf {} \;
+#find . -name "xsockconf*.ini" -exec rm -rf {} \;
 
 ./configure
 make
