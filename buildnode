@@ -14,9 +14,13 @@ sudo apt-get install -y python-tk python-dev python-setuptools python-crypto pyt
 sudo apt-get install -y swig
 sudo apt-get install -y python-argparse
 sudo apt-get install -y python-pygame
+sudo apt-get install -y libffi-dev python-crypto python-protobuf python-networkx python-pip
 
 # tools
 sudo apt-get install -y vim tmux ack-grep curl socat netcat wget stunnel
+
+sudo pip install --upgrade pip
+sudo pip install pynacl
 
 # get XIA source & build
 cd /
