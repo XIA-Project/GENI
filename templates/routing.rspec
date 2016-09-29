@@ -7,7 +7,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-11"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-13"/>
@@ -21,7 +21,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-9"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-10"/>
@@ -36,7 +36,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-7"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-8"/>
@@ -51,7 +51,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-5"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-6"/>
@@ -65,7 +65,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-3"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-4"/>
@@ -80,7 +80,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-1"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-2"/>
@@ -95,7 +95,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-0"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-29"/>
@@ -110,7 +110,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-12"/>
 </node>
@@ -122,7 +122,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-14"/>
 </node>
@@ -134,7 +134,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-16"/>
 </node>
@@ -146,7 +146,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-18"/>
 </node>
@@ -158,7 +158,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-20"/>
 </node>
@@ -170,7 +170,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-22"/>
 </node>
@@ -182,7 +182,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-24"/>
 </node>
@@ -194,7 +194,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-26"/>
 </node>
@@ -206,7 +206,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-28"/>
 </node>
@@ -218,7 +218,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-32"/>
 </node>
@@ -230,7 +230,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-34"/>
 </node>
@@ -242,7 +242,7 @@
 </sliver_type>
 <services xmlns="http://www.geni.net/resources/rspec/3">
 <execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
-<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://raw.githubusercontent.com/XIA-Project/GENI/master/justxia.tar" install_path="/tmp"/>
 </services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-30"/>
 </node>
