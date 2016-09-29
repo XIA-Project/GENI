@@ -1,6 +1,7 @@
 #!/bin/sh
 # assume the rest of the node is uptodate and just build xia
 
+cd
 git clone https://github.com/XIA-Project/xia-core.git
 cd xia-core
 git checkout xia-v2

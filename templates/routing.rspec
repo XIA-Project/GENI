@@ -5,7 +5,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-11"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-13"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-17"/>
@@ -16,7 +19,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-9"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-10"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-15"/>
@@ -28,7 +34,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-7"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-8"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-21"/>
@@ -40,7 +49,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-5"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-6"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-23"/>
@@ -51,7 +63,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-3"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-4"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-25"/>
@@ -63,7 +78,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+emulab.net+image+emulab-ops:UBUNTU14-64-STD"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-1"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-2"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-27"/>
@@ -75,7 +93,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-0"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-29"/>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-31"/>
@@ -87,7 +108,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+emulab.net+image+emulab-ops:UBUNTU14-64-STD"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-12"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host1">
@@ -96,7 +120,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-14"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="controller0">
@@ -105,7 +132,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-16"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="controller1">
@@ -114,7 +144,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-18"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host20">
@@ -123,7 +156,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-20"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host21">
@@ -132,7 +168,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-22"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host2">
@@ -141,7 +180,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-24"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host3">
@@ -150,7 +192,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-26"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="host4">
@@ -159,7 +204,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-28"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="controller2">
@@ -168,7 +216,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-32"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="controller3">
@@ -177,7 +228,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-34"/>
 </node>
 <node xmlns="http://www.geni.net/resources/rspec/3" client_id="controller4">
@@ -186,7 +240,10 @@
 <sliver_type xmlns="http://www.geni.net/resources/rspec/3" name="emulab-xen">
 <disk_image xmlns="http://www.geni.net/resources/rspec/3" name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
 </sliver_type>
-<services xmlns="http://www.geni.net/resources/rspec/3"/>
+<services xmlns="http://www.geni.net/resources/rspec/3">
+<execute xmlns="http://www.geni.net/resources/rspec/3" command="sh /tmp/justxia" shell="/bin/sh"/>
+<install xmlns="http://www.geni.net/resources/rspec/3" url="https://github.com/XIA-Project/GENI/blob/master/justxia.tar?raw=true" install_path="/tmp"/>
+</services>
 <interface xmlns="http://www.geni.net/resources/rspec/3" client_id="interface-30"/>
 </node>
 <link xmlns="http://www.geni.net/resources/rspec/3" client_id="link-0">
