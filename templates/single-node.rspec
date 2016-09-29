@@ -1,0 +1,8 @@
+<rspec xmlns="http://www.geni.net/resources/rspec/3" xmlns:emulab="http://www.protogeni.net/resources/rspec/ext/emulab/1" xmlns:tour="http://www.protogeni.net/resources/rspec/ext/apt-tour/1" xmlns:jacks="http://www.protogeni.net/resources/rspec/ext/jacks/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.geni.net/resources/rspec/3    http://www.geni.net/resources/rspec/3/request.xsd" type="request">
+  <node xmlns:emulab="http://www.protogeni.net/resources/rspec/ext/emulab/1" client_id="xia-0" exclusive="false">
+    <icon xmlns="http://www.protogeni.net/resources/rspec/ext/jacks/1" url="https://www.emulab.net/protogeni/jacks-stable/images/default.svg"/>
+    <sliver_type name="emulab-xen">
+	  <disk_image name="urn:publicid:IDN+utahddc.geniracks.net+image+ch-geni-net:xianode" url="https://www.utahddc.geniracks.net/image_metadata.php?uuid=bd5b9b69-8655-11e6-9a79-000099989701"/>
+    </sliver_type>
+  </node>
+</rspec>
